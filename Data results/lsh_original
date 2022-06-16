@@ -1,0 +1,7920 @@
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 347
+True Nearest neighbor: a: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 329
+True Nearest neighbor: a: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: a: 350
+True Nearest neighbor: a: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: a: 176
+True Nearest neighbor: a: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: a: 67
+True Nearest neighbor: a: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: a: 310
+True Nearest neighbor: a: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: a: 264
+True Nearest neighbor: a: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: a: 199
+True Nearest neighbor: a: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: a: 348
+True Nearest neighbor: a: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: a: 248
+True Nearest neighbor: a: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 347
+True Nearest neighbor: aa: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 329
+True Nearest neighbor: aa: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: aa: 350
+True Nearest neighbor: aa: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: aa: 176
+True Nearest neighbor: aa: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: aa: 67
+True Nearest neighbor: aa: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: aa: 310
+True Nearest neighbor: aa: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: aa: 264
+True Nearest neighbor: aa: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: aa: 199
+True Nearest neighbor: aa: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: aa: 348
+True Nearest neighbor: aa: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: aa: 248
+True Nearest neighbor: aa: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 347
+True Nearest neighbor: aaba: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 329
+True Nearest neighbor: aaba: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: aaba: 350
+True Nearest neighbor: aaba: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: aaba: 176
+True Nearest neighbor: aaba: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: aaba: 67
+True Nearest neighbor: aaba: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: aaba: 310
+True Nearest neighbor: aaba: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: aaba: 264
+True Nearest neighbor: aaba: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: aaba: 199
+True Nearest neighbor: aaba: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: aaba: 348
+True Nearest neighbor: aaba: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: aaba: 248
+True Nearest neighbor: aaba: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 347
+True Nearest neighbor: aapl: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 329
+True Nearest neighbor: aapl: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: aapl: 350
+True Nearest neighbor: aapl: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: aapl: 176
+True Nearest neighbor: aapl: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: aapl: 67
+True Nearest neighbor: aapl: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: aapl: 310
+True Nearest neighbor: aapl: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: aapl: 264
+True Nearest neighbor: aapl: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: aapl: 199
+True Nearest neighbor: aapl: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: aapl: 348
+True Nearest neighbor: aapl: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: aapl: 248
+True Nearest neighbor: aapl: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 347
+True Nearest neighbor: abc: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 329
+True Nearest neighbor: abc: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: abc: 350
+True Nearest neighbor: abc: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: abc: 176
+True Nearest neighbor: abc: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: abc: 67
+True Nearest neighbor: abc: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: abc: 310
+True Nearest neighbor: abc: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: abc: 264
+True Nearest neighbor: abc: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: abc: 199
+True Nearest neighbor: abc: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: abc: 348
+True Nearest neighbor: abc: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: abc: 248
+True Nearest neighbor: abc: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 347
+True Nearest neighbor: abt: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 329
+True Nearest neighbor: abt: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: abt: 350
+True Nearest neighbor: abt: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: abt: 176
+True Nearest neighbor: abt: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: abt: 67
+True Nearest neighbor: abt: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: abt: 310
+True Nearest neighbor: abt: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: abt: 264
+True Nearest neighbor: abt: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: abt: 199
+True Nearest neighbor: abt: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: abt: 348
+True Nearest neighbor: abt: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: abt: 248
+True Nearest neighbor: abt: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 347
+True Nearest neighbor: abx: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 329
+True Nearest neighbor: abx: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: abx: 350
+True Nearest neighbor: abx: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: abx: 176
+True Nearest neighbor: abx: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: abx: 67
+True Nearest neighbor: abx: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: abx: 310
+True Nearest neighbor: abx: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: abx: 264
+True Nearest neighbor: abx: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: abx: 199
+True Nearest neighbor: abx: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: abx: 348
+True Nearest neighbor: abx: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: abx: 248
+True Nearest neighbor: abx: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 347
+True Nearest neighbor: adbe: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 329
+True Nearest neighbor: adbe: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: adbe: 350
+True Nearest neighbor: adbe: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: adbe: 176
+True Nearest neighbor: adbe: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: adbe: 67
+True Nearest neighbor: adbe: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: adbe: 310
+True Nearest neighbor: adbe: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: adbe: 264
+True Nearest neighbor: adbe: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: adbe: 199
+True Nearest neighbor: adbe: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: adbe: 348
+True Nearest neighbor: adbe: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: adbe: 248
+True Nearest neighbor: adbe: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 347
+True Nearest neighbor: adi: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 329
+True Nearest neighbor: adi: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: adi: 350
+True Nearest neighbor: adi: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: adi: 176
+True Nearest neighbor: adi: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: adi: 67
+True Nearest neighbor: adi: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: adi: 310
+True Nearest neighbor: adi: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: adi: 264
+True Nearest neighbor: adi: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: adi: 199
+True Nearest neighbor: adi: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: adi: 348
+True Nearest neighbor: adi: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: adi: 248
+True Nearest neighbor: adi: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 347
+True Nearest neighbor: adm: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 329
+True Nearest neighbor: adm: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: adm: 350
+True Nearest neighbor: adm: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: adm: 176
+True Nearest neighbor: adm: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: adm: 67
+True Nearest neighbor: adm: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: adm: 310
+True Nearest neighbor: adm: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: adm: 264
+True Nearest neighbor: adm: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: adm: 199
+True Nearest neighbor: adm: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: adm: 348
+True Nearest neighbor: adm: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: adm: 248
+True Nearest neighbor: adm: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 347
+True Nearest neighbor: admp: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 329
+True Nearest neighbor: admp: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: admp: 350
+True Nearest neighbor: admp: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: admp: 176
+True Nearest neighbor: admp: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: admp: 67
+True Nearest neighbor: admp: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: admp: 310
+True Nearest neighbor: admp: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: admp: 264
+True Nearest neighbor: admp: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: admp: 199
+True Nearest neighbor: admp: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: admp: 348
+True Nearest neighbor: admp: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: admp: 248
+True Nearest neighbor: admp: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 347
+True Nearest neighbor: adp: 347
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 329
+True Nearest neighbor: adp: 329
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: adp: 350
+True Nearest neighbor: adp: 180
+distanceLSH: 303
+distanceTrue: 288
+
+Approximate Nearest neighbor: adp: 176
+True Nearest neighbor: adp: 350
+distanceLSH: 306
+distanceTrue: 303
+
+Approximate Nearest neighbor: adp: 67
+True Nearest neighbor: adp: 176
+distanceLSH: 313
+distanceTrue: 306
+
+Approximate Nearest neighbor: adp: 310
+True Nearest neighbor: adp: 67
+distanceLSH: 346
+distanceTrue: 313
+
+Approximate Nearest neighbor: adp: 264
+True Nearest neighbor: adp: 310
+distanceLSH: 354
+distanceTrue: 346
+
+Approximate Nearest neighbor: adp: 199
+True Nearest neighbor: adp: 264
+distanceLSH: 373
+distanceTrue: 354
+
+Approximate Nearest neighbor: adp: 348
+True Nearest neighbor: adp: 80
+distanceLSH: 381
+distanceTrue: 365
+
+Approximate Nearest neighbor: adp: 248
+True Nearest neighbor: adp: 199
+distanceLSH: 384
+distanceTrue: 373
+
+tLSH: 82
+tTRUE: 5
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 348
+True Nearest neighbor: a: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 62
+True Nearest neighbor: a: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: a: 261
+True Nearest neighbor: a: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: a: 137
+True Nearest neighbor: a: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: a: 171
+True Nearest neighbor: a: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: a: 264
+True Nearest neighbor: a: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: a: 88
+True Nearest neighbor: a: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: a: 164
+True Nearest neighbor: a: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: a: 67
+True Nearest neighbor: a: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: a: 91
+True Nearest neighbor: a: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 348
+True Nearest neighbor: aa: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 62
+True Nearest neighbor: aa: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: aa: 261
+True Nearest neighbor: aa: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: aa: 137
+True Nearest neighbor: aa: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: aa: 171
+True Nearest neighbor: aa: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: aa: 264
+True Nearest neighbor: aa: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: aa: 88
+True Nearest neighbor: aa: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: aa: 164
+True Nearest neighbor: aa: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: aa: 67
+True Nearest neighbor: aa: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: aa: 91
+True Nearest neighbor: aa: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 348
+True Nearest neighbor: aaba: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 62
+True Nearest neighbor: aaba: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: aaba: 261
+True Nearest neighbor: aaba: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: aaba: 137
+True Nearest neighbor: aaba: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: aaba: 171
+True Nearest neighbor: aaba: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: aaba: 264
+True Nearest neighbor: aaba: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: aaba: 88
+True Nearest neighbor: aaba: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: aaba: 164
+True Nearest neighbor: aaba: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: aaba: 67
+True Nearest neighbor: aaba: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: aaba: 91
+True Nearest neighbor: aaba: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 348
+True Nearest neighbor: aapl: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 62
+True Nearest neighbor: aapl: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: aapl: 261
+True Nearest neighbor: aapl: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: aapl: 137
+True Nearest neighbor: aapl: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: aapl: 171
+True Nearest neighbor: aapl: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: aapl: 264
+True Nearest neighbor: aapl: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: aapl: 88
+True Nearest neighbor: aapl: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: aapl: 164
+True Nearest neighbor: aapl: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: aapl: 67
+True Nearest neighbor: aapl: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: aapl: 91
+True Nearest neighbor: aapl: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 348
+True Nearest neighbor: abc: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 62
+True Nearest neighbor: abc: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: abc: 261
+True Nearest neighbor: abc: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: abc: 137
+True Nearest neighbor: abc: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: abc: 171
+True Nearest neighbor: abc: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: abc: 264
+True Nearest neighbor: abc: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: abc: 88
+True Nearest neighbor: abc: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: abc: 164
+True Nearest neighbor: abc: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: abc: 67
+True Nearest neighbor: abc: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: abc: 91
+True Nearest neighbor: abc: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 348
+True Nearest neighbor: abt: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 62
+True Nearest neighbor: abt: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: abt: 261
+True Nearest neighbor: abt: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: abt: 137
+True Nearest neighbor: abt: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: abt: 171
+True Nearest neighbor: abt: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: abt: 264
+True Nearest neighbor: abt: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: abt: 88
+True Nearest neighbor: abt: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: abt: 164
+True Nearest neighbor: abt: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: abt: 67
+True Nearest neighbor: abt: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: abt: 91
+True Nearest neighbor: abt: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 348
+True Nearest neighbor: abx: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 62
+True Nearest neighbor: abx: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: abx: 261
+True Nearest neighbor: abx: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: abx: 137
+True Nearest neighbor: abx: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: abx: 171
+True Nearest neighbor: abx: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: abx: 264
+True Nearest neighbor: abx: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: abx: 88
+True Nearest neighbor: abx: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: abx: 164
+True Nearest neighbor: abx: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: abx: 67
+True Nearest neighbor: abx: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: abx: 91
+True Nearest neighbor: abx: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 348
+True Nearest neighbor: adbe: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 62
+True Nearest neighbor: adbe: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: adbe: 261
+True Nearest neighbor: adbe: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: adbe: 137
+True Nearest neighbor: adbe: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: adbe: 171
+True Nearest neighbor: adbe: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: adbe: 264
+True Nearest neighbor: adbe: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: adbe: 88
+True Nearest neighbor: adbe: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: adbe: 164
+True Nearest neighbor: adbe: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: adbe: 67
+True Nearest neighbor: adbe: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: adbe: 91
+True Nearest neighbor: adbe: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 348
+True Nearest neighbor: adi: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 62
+True Nearest neighbor: adi: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: adi: 261
+True Nearest neighbor: adi: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: adi: 137
+True Nearest neighbor: adi: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: adi: 171
+True Nearest neighbor: adi: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: adi: 264
+True Nearest neighbor: adi: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: adi: 88
+True Nearest neighbor: adi: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: adi: 164
+True Nearest neighbor: adi: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: adi: 67
+True Nearest neighbor: adi: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: adi: 91
+True Nearest neighbor: adi: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 348
+True Nearest neighbor: adm: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 62
+True Nearest neighbor: adm: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: adm: 261
+True Nearest neighbor: adm: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: adm: 137
+True Nearest neighbor: adm: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: adm: 171
+True Nearest neighbor: adm: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: adm: 264
+True Nearest neighbor: adm: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: adm: 88
+True Nearest neighbor: adm: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: adm: 164
+True Nearest neighbor: adm: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: adm: 67
+True Nearest neighbor: adm: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: adm: 91
+True Nearest neighbor: adm: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 348
+True Nearest neighbor: admp: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 62
+True Nearest neighbor: admp: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: admp: 261
+True Nearest neighbor: admp: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: admp: 137
+True Nearest neighbor: admp: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: admp: 171
+True Nearest neighbor: admp: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: admp: 264
+True Nearest neighbor: admp: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: admp: 88
+True Nearest neighbor: admp: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: admp: 164
+True Nearest neighbor: admp: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: admp: 67
+True Nearest neighbor: admp: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: admp: 91
+True Nearest neighbor: admp: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 348
+True Nearest neighbor: adp: 348
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 62
+True Nearest neighbor: adp: 62
+distanceLSH: 192
+distanceTrue: 192
+
+Approximate Nearest neighbor: adp: 261
+True Nearest neighbor: adp: 261
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: adp: 137
+True Nearest neighbor: adp: 171
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: adp: 171
+True Nearest neighbor: adp: 137
+distanceLSH: 227
+distanceTrue: 227
+
+Approximate Nearest neighbor: adp: 264
+True Nearest neighbor: adp: 264
+distanceLSH: 254
+distanceTrue: 254
+
+Approximate Nearest neighbor: adp: 88
+True Nearest neighbor: adp: 88
+distanceLSH: 259
+distanceTrue: 259
+
+Approximate Nearest neighbor: adp: 164
+True Nearest neighbor: adp: 164
+distanceLSH: 264
+distanceTrue: 264
+
+Approximate Nearest neighbor: adp: 67
+True Nearest neighbor: adp: 114
+distanceLSH: 304
+distanceTrue: 266
+
+Approximate Nearest neighbor: adp: 91
+True Nearest neighbor: adp: 67
+distanceLSH: 313
+distanceTrue: 304
+
+tLSH: 81
+tTRUE: 5
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 349
+True Nearest neighbor: a: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 45
+True Nearest neighbor: a: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: a: 34
+True Nearest neighbor: a: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: a: 1
+True Nearest neighbor: a: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: a: 129
+True Nearest neighbor: a: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: a: 235
+True Nearest neighbor: a: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: a: 135
+True Nearest neighbor: a: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: a: 355
+True Nearest neighbor: a: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: a: 326
+True Nearest neighbor: a: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: a: 298
+True Nearest neighbor: a: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 349
+True Nearest neighbor: aa: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 45
+True Nearest neighbor: aa: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: aa: 34
+True Nearest neighbor: aa: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: aa: 1
+True Nearest neighbor: aa: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: aa: 129
+True Nearest neighbor: aa: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: aa: 235
+True Nearest neighbor: aa: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: aa: 135
+True Nearest neighbor: aa: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: aa: 355
+True Nearest neighbor: aa: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: aa: 326
+True Nearest neighbor: aa: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: aa: 298
+True Nearest neighbor: aa: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 349
+True Nearest neighbor: aaba: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 45
+True Nearest neighbor: aaba: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: aaba: 34
+True Nearest neighbor: aaba: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: aaba: 1
+True Nearest neighbor: aaba: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: aaba: 129
+True Nearest neighbor: aaba: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: aaba: 235
+True Nearest neighbor: aaba: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: aaba: 135
+True Nearest neighbor: aaba: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: aaba: 355
+True Nearest neighbor: aaba: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: aaba: 326
+True Nearest neighbor: aaba: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: aaba: 298
+True Nearest neighbor: aaba: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 349
+True Nearest neighbor: aapl: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 45
+True Nearest neighbor: aapl: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: aapl: 34
+True Nearest neighbor: aapl: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: aapl: 1
+True Nearest neighbor: aapl: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: aapl: 129
+True Nearest neighbor: aapl: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: aapl: 235
+True Nearest neighbor: aapl: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: aapl: 135
+True Nearest neighbor: aapl: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: aapl: 355
+True Nearest neighbor: aapl: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: aapl: 326
+True Nearest neighbor: aapl: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: aapl: 298
+True Nearest neighbor: aapl: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 349
+True Nearest neighbor: abc: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 45
+True Nearest neighbor: abc: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: abc: 34
+True Nearest neighbor: abc: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: abc: 1
+True Nearest neighbor: abc: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: abc: 129
+True Nearest neighbor: abc: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: abc: 235
+True Nearest neighbor: abc: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: abc: 135
+True Nearest neighbor: abc: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: abc: 355
+True Nearest neighbor: abc: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: abc: 326
+True Nearest neighbor: abc: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: abc: 298
+True Nearest neighbor: abc: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 349
+True Nearest neighbor: abt: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 45
+True Nearest neighbor: abt: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: abt: 34
+True Nearest neighbor: abt: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: abt: 1
+True Nearest neighbor: abt: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: abt: 129
+True Nearest neighbor: abt: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: abt: 235
+True Nearest neighbor: abt: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: abt: 135
+True Nearest neighbor: abt: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: abt: 355
+True Nearest neighbor: abt: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: abt: 326
+True Nearest neighbor: abt: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: abt: 298
+True Nearest neighbor: abt: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 349
+True Nearest neighbor: abx: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 45
+True Nearest neighbor: abx: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: abx: 34
+True Nearest neighbor: abx: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: abx: 1
+True Nearest neighbor: abx: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: abx: 129
+True Nearest neighbor: abx: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: abx: 235
+True Nearest neighbor: abx: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: abx: 135
+True Nearest neighbor: abx: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: abx: 355
+True Nearest neighbor: abx: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: abx: 326
+True Nearest neighbor: abx: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: abx: 298
+True Nearest neighbor: abx: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 349
+True Nearest neighbor: adbe: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 45
+True Nearest neighbor: adbe: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: adbe: 34
+True Nearest neighbor: adbe: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: adbe: 1
+True Nearest neighbor: adbe: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: adbe: 129
+True Nearest neighbor: adbe: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: adbe: 235
+True Nearest neighbor: adbe: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: adbe: 135
+True Nearest neighbor: adbe: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: adbe: 355
+True Nearest neighbor: adbe: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: adbe: 326
+True Nearest neighbor: adbe: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: adbe: 298
+True Nearest neighbor: adbe: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 349
+True Nearest neighbor: adi: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 45
+True Nearest neighbor: adi: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: adi: 34
+True Nearest neighbor: adi: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: adi: 1
+True Nearest neighbor: adi: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: adi: 129
+True Nearest neighbor: adi: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: adi: 235
+True Nearest neighbor: adi: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: adi: 135
+True Nearest neighbor: adi: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: adi: 355
+True Nearest neighbor: adi: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: adi: 326
+True Nearest neighbor: adi: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: adi: 298
+True Nearest neighbor: adi: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 349
+True Nearest neighbor: adm: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 45
+True Nearest neighbor: adm: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: adm: 34
+True Nearest neighbor: adm: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: adm: 1
+True Nearest neighbor: adm: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: adm: 129
+True Nearest neighbor: adm: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: adm: 235
+True Nearest neighbor: adm: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: adm: 135
+True Nearest neighbor: adm: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: adm: 355
+True Nearest neighbor: adm: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: adm: 326
+True Nearest neighbor: adm: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: adm: 298
+True Nearest neighbor: adm: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 349
+True Nearest neighbor: admp: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 45
+True Nearest neighbor: admp: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: admp: 34
+True Nearest neighbor: admp: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: admp: 1
+True Nearest neighbor: admp: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: admp: 129
+True Nearest neighbor: admp: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: admp: 235
+True Nearest neighbor: admp: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: admp: 135
+True Nearest neighbor: admp: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: admp: 355
+True Nearest neighbor: admp: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: admp: 326
+True Nearest neighbor: admp: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: admp: 298
+True Nearest neighbor: admp: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 349
+True Nearest neighbor: adp: 349
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 45
+True Nearest neighbor: adp: 282
+distanceLSH: 1205
+distanceTrue: 947
+
+Approximate Nearest neighbor: adp: 34
+True Nearest neighbor: adp: 45
+distanceLSH: 1249
+distanceTrue: 1205
+
+Approximate Nearest neighbor: adp: 1
+True Nearest neighbor: adp: 34
+distanceLSH: 1296
+distanceTrue: 1249
+
+Approximate Nearest neighbor: adp: 129
+True Nearest neighbor: adp: 1
+distanceLSH: 1318
+distanceTrue: 1296
+
+Approximate Nearest neighbor: adp: 235
+True Nearest neighbor: adp: 129
+distanceLSH: 1387
+distanceTrue: 1318
+
+Approximate Nearest neighbor: adp: 135
+True Nearest neighbor: adp: 235
+distanceLSH: 1497
+distanceTrue: 1387
+
+Approximate Nearest neighbor: adp: 355
+True Nearest neighbor: adp: 135
+distanceLSH: 1526
+distanceTrue: 1497
+
+Approximate Nearest neighbor: adp: 326
+True Nearest neighbor: adp: 111
+distanceLSH: 1604
+distanceTrue: 1516
+
+Approximate Nearest neighbor: adp: 298
+True Nearest neighbor: adp: 355
+distanceLSH: 1675
+distanceTrue: 1526
+
+tLSH: 81
+tTRUE: 6
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 350
+True Nearest neighbor: a: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 310
+True Nearest neighbor: a: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: a: 67
+True Nearest neighbor: a: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: a: 329
+True Nearest neighbor: a: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: a: 264
+True Nearest neighbor: a: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: a: 347
+True Nearest neighbor: a: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: a: 199
+True Nearest neighbor: a: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: a: 171
+True Nearest neighbor: a: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: a: 91
+True Nearest neighbor: a: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: a: 176
+True Nearest neighbor: a: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 350
+True Nearest neighbor: aa: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 310
+True Nearest neighbor: aa: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: aa: 67
+True Nearest neighbor: aa: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: aa: 329
+True Nearest neighbor: aa: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: aa: 264
+True Nearest neighbor: aa: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: aa: 347
+True Nearest neighbor: aa: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: aa: 199
+True Nearest neighbor: aa: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: aa: 171
+True Nearest neighbor: aa: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: aa: 91
+True Nearest neighbor: aa: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: aa: 176
+True Nearest neighbor: aa: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 350
+True Nearest neighbor: aaba: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 310
+True Nearest neighbor: aaba: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: aaba: 67
+True Nearest neighbor: aaba: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: aaba: 329
+True Nearest neighbor: aaba: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: aaba: 264
+True Nearest neighbor: aaba: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: aaba: 347
+True Nearest neighbor: aaba: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: aaba: 199
+True Nearest neighbor: aaba: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: aaba: 171
+True Nearest neighbor: aaba: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: aaba: 91
+True Nearest neighbor: aaba: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: aaba: 176
+True Nearest neighbor: aaba: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 350
+True Nearest neighbor: aapl: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 310
+True Nearest neighbor: aapl: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: aapl: 67
+True Nearest neighbor: aapl: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: aapl: 329
+True Nearest neighbor: aapl: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: aapl: 264
+True Nearest neighbor: aapl: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: aapl: 347
+True Nearest neighbor: aapl: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: aapl: 199
+True Nearest neighbor: aapl: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: aapl: 171
+True Nearest neighbor: aapl: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: aapl: 91
+True Nearest neighbor: aapl: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: aapl: 176
+True Nearest neighbor: aapl: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 350
+True Nearest neighbor: abc: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 310
+True Nearest neighbor: abc: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: abc: 67
+True Nearest neighbor: abc: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: abc: 329
+True Nearest neighbor: abc: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: abc: 264
+True Nearest neighbor: abc: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: abc: 347
+True Nearest neighbor: abc: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: abc: 199
+True Nearest neighbor: abc: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: abc: 171
+True Nearest neighbor: abc: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: abc: 91
+True Nearest neighbor: abc: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: abc: 176
+True Nearest neighbor: abc: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 350
+True Nearest neighbor: abt: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 310
+True Nearest neighbor: abt: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: abt: 67
+True Nearest neighbor: abt: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: abt: 329
+True Nearest neighbor: abt: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: abt: 264
+True Nearest neighbor: abt: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: abt: 347
+True Nearest neighbor: abt: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: abt: 199
+True Nearest neighbor: abt: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: abt: 171
+True Nearest neighbor: abt: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: abt: 91
+True Nearest neighbor: abt: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: abt: 176
+True Nearest neighbor: abt: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 350
+True Nearest neighbor: abx: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 310
+True Nearest neighbor: abx: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: abx: 67
+True Nearest neighbor: abx: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: abx: 329
+True Nearest neighbor: abx: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: abx: 264
+True Nearest neighbor: abx: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: abx: 347
+True Nearest neighbor: abx: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: abx: 199
+True Nearest neighbor: abx: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: abx: 171
+True Nearest neighbor: abx: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: abx: 91
+True Nearest neighbor: abx: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: abx: 176
+True Nearest neighbor: abx: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 350
+True Nearest neighbor: adbe: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 310
+True Nearest neighbor: adbe: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: adbe: 67
+True Nearest neighbor: adbe: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: adbe: 329
+True Nearest neighbor: adbe: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: adbe: 264
+True Nearest neighbor: adbe: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: adbe: 347
+True Nearest neighbor: adbe: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: adbe: 199
+True Nearest neighbor: adbe: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: adbe: 171
+True Nearest neighbor: adbe: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: adbe: 91
+True Nearest neighbor: adbe: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: adbe: 176
+True Nearest neighbor: adbe: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 350
+True Nearest neighbor: adi: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 310
+True Nearest neighbor: adi: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: adi: 67
+True Nearest neighbor: adi: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: adi: 329
+True Nearest neighbor: adi: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: adi: 264
+True Nearest neighbor: adi: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: adi: 347
+True Nearest neighbor: adi: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: adi: 199
+True Nearest neighbor: adi: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: adi: 171
+True Nearest neighbor: adi: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: adi: 91
+True Nearest neighbor: adi: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: adi: 176
+True Nearest neighbor: adi: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 350
+True Nearest neighbor: adm: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 310
+True Nearest neighbor: adm: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: adm: 67
+True Nearest neighbor: adm: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: adm: 329
+True Nearest neighbor: adm: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: adm: 264
+True Nearest neighbor: adm: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: adm: 347
+True Nearest neighbor: adm: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: adm: 199
+True Nearest neighbor: adm: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: adm: 171
+True Nearest neighbor: adm: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: adm: 91
+True Nearest neighbor: adm: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: adm: 176
+True Nearest neighbor: adm: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 350
+True Nearest neighbor: admp: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 310
+True Nearest neighbor: admp: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: admp: 67
+True Nearest neighbor: admp: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: admp: 329
+True Nearest neighbor: admp: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: admp: 264
+True Nearest neighbor: admp: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: admp: 347
+True Nearest neighbor: admp: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: admp: 199
+True Nearest neighbor: admp: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: admp: 171
+True Nearest neighbor: admp: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: admp: 91
+True Nearest neighbor: admp: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: admp: 176
+True Nearest neighbor: admp: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 350
+True Nearest neighbor: adp: 350
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 310
+True Nearest neighbor: adp: 310
+distanceLSH: 207
+distanceTrue: 207
+
+Approximate Nearest neighbor: adp: 67
+True Nearest neighbor: adp: 67
+distanceLSH: 210
+distanceTrue: 210
+
+Approximate Nearest neighbor: adp: 329
+True Nearest neighbor: adp: 329
+distanceLSH: 216
+distanceTrue: 216
+
+Approximate Nearest neighbor: adp: 264
+True Nearest neighbor: adp: 80
+distanceLSH: 243
+distanceTrue: 223
+
+Approximate Nearest neighbor: adp: 347
+True Nearest neighbor: adp: 264
+distanceLSH: 303
+distanceTrue: 243
+
+Approximate Nearest neighbor: adp: 199
+True Nearest neighbor: adp: 55
+distanceLSH: 303
+distanceTrue: 266
+
+Approximate Nearest neighbor: adp: 171
+True Nearest neighbor: adp: 199
+distanceLSH: 303
+distanceTrue: 303
+
+Approximate Nearest neighbor: adp: 91
+True Nearest neighbor: adp: 347
+distanceLSH: 325
+distanceTrue: 303
+
+Approximate Nearest neighbor: adp: 176
+True Nearest neighbor: adp: 171
+distanceLSH: 327
+distanceTrue: 303
+
+tLSH: 81
+tTRUE: 6
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 351
+True Nearest neighbor: a: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 358
+True Nearest neighbor: a: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: a: 77
+True Nearest neighbor: a: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: a: 208
+True Nearest neighbor: a: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: a: 298
+True Nearest neighbor: a: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: a: 217
+True Nearest neighbor: a: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: a: 13
+True Nearest neighbor: a: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: a: 21
+True Nearest neighbor: a: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: a: 68
+True Nearest neighbor: a: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: a: 262
+True Nearest neighbor: a: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 351
+True Nearest neighbor: aa: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 358
+True Nearest neighbor: aa: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: aa: 77
+True Nearest neighbor: aa: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: aa: 208
+True Nearest neighbor: aa: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: aa: 298
+True Nearest neighbor: aa: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: aa: 217
+True Nearest neighbor: aa: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: aa: 13
+True Nearest neighbor: aa: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: aa: 21
+True Nearest neighbor: aa: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: aa: 68
+True Nearest neighbor: aa: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: aa: 262
+True Nearest neighbor: aa: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 351
+True Nearest neighbor: aaba: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 358
+True Nearest neighbor: aaba: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: aaba: 77
+True Nearest neighbor: aaba: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: aaba: 208
+True Nearest neighbor: aaba: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: aaba: 298
+True Nearest neighbor: aaba: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: aaba: 217
+True Nearest neighbor: aaba: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: aaba: 13
+True Nearest neighbor: aaba: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: aaba: 21
+True Nearest neighbor: aaba: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: aaba: 68
+True Nearest neighbor: aaba: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: aaba: 262
+True Nearest neighbor: aaba: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 351
+True Nearest neighbor: aapl: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 358
+True Nearest neighbor: aapl: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: aapl: 77
+True Nearest neighbor: aapl: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: aapl: 208
+True Nearest neighbor: aapl: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: aapl: 298
+True Nearest neighbor: aapl: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: aapl: 217
+True Nearest neighbor: aapl: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: aapl: 13
+True Nearest neighbor: aapl: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: aapl: 21
+True Nearest neighbor: aapl: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: aapl: 68
+True Nearest neighbor: aapl: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: aapl: 262
+True Nearest neighbor: aapl: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 351
+True Nearest neighbor: abc: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 358
+True Nearest neighbor: abc: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: abc: 77
+True Nearest neighbor: abc: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: abc: 208
+True Nearest neighbor: abc: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: abc: 298
+True Nearest neighbor: abc: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: abc: 217
+True Nearest neighbor: abc: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: abc: 13
+True Nearest neighbor: abc: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: abc: 21
+True Nearest neighbor: abc: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: abc: 68
+True Nearest neighbor: abc: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: abc: 262
+True Nearest neighbor: abc: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 351
+True Nearest neighbor: abt: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 358
+True Nearest neighbor: abt: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: abt: 77
+True Nearest neighbor: abt: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: abt: 208
+True Nearest neighbor: abt: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: abt: 298
+True Nearest neighbor: abt: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: abt: 217
+True Nearest neighbor: abt: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: abt: 13
+True Nearest neighbor: abt: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: abt: 21
+True Nearest neighbor: abt: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: abt: 68
+True Nearest neighbor: abt: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: abt: 262
+True Nearest neighbor: abt: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 351
+True Nearest neighbor: abx: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 358
+True Nearest neighbor: abx: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: abx: 77
+True Nearest neighbor: abx: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: abx: 208
+True Nearest neighbor: abx: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: abx: 298
+True Nearest neighbor: abx: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: abx: 217
+True Nearest neighbor: abx: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: abx: 13
+True Nearest neighbor: abx: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: abx: 21
+True Nearest neighbor: abx: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: abx: 68
+True Nearest neighbor: abx: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: abx: 262
+True Nearest neighbor: abx: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 351
+True Nearest neighbor: adbe: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 358
+True Nearest neighbor: adbe: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: adbe: 77
+True Nearest neighbor: adbe: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: adbe: 208
+True Nearest neighbor: adbe: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: adbe: 298
+True Nearest neighbor: adbe: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: adbe: 217
+True Nearest neighbor: adbe: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: adbe: 13
+True Nearest neighbor: adbe: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: adbe: 21
+True Nearest neighbor: adbe: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: adbe: 68
+True Nearest neighbor: adbe: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: adbe: 262
+True Nearest neighbor: adbe: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 351
+True Nearest neighbor: adi: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 358
+True Nearest neighbor: adi: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: adi: 77
+True Nearest neighbor: adi: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: adi: 208
+True Nearest neighbor: adi: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: adi: 298
+True Nearest neighbor: adi: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: adi: 217
+True Nearest neighbor: adi: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: adi: 13
+True Nearest neighbor: adi: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: adi: 21
+True Nearest neighbor: adi: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: adi: 68
+True Nearest neighbor: adi: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: adi: 262
+True Nearest neighbor: adi: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 351
+True Nearest neighbor: adm: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 358
+True Nearest neighbor: adm: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: adm: 77
+True Nearest neighbor: adm: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: adm: 208
+True Nearest neighbor: adm: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: adm: 298
+True Nearest neighbor: adm: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: adm: 217
+True Nearest neighbor: adm: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: adm: 13
+True Nearest neighbor: adm: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: adm: 21
+True Nearest neighbor: adm: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: adm: 68
+True Nearest neighbor: adm: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: adm: 262
+True Nearest neighbor: adm: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 351
+True Nearest neighbor: admp: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 358
+True Nearest neighbor: admp: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: admp: 77
+True Nearest neighbor: admp: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: admp: 208
+True Nearest neighbor: admp: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: admp: 298
+True Nearest neighbor: admp: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: admp: 217
+True Nearest neighbor: admp: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: admp: 13
+True Nearest neighbor: admp: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: admp: 21
+True Nearest neighbor: admp: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: admp: 68
+True Nearest neighbor: admp: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: admp: 262
+True Nearest neighbor: admp: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 351
+True Nearest neighbor: adp: 351
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 358
+True Nearest neighbor: adp: 303
+distanceLSH: 570
+distanceTrue: 559
+
+Approximate Nearest neighbor: adp: 77
+True Nearest neighbor: adp: 358
+distanceLSH: 879
+distanceTrue: 570
+
+Approximate Nearest neighbor: adp: 208
+True Nearest neighbor: adp: 160
+distanceLSH: 936
+distanceTrue: 793
+
+Approximate Nearest neighbor: adp: 298
+True Nearest neighbor: adp: 355
+distanceLSH: 946
+distanceTrue: 861
+
+Approximate Nearest neighbor: adp: 217
+True Nearest neighbor: adp: 1
+distanceLSH: 977
+distanceTrue: 870
+
+Approximate Nearest neighbor: adp: 13
+True Nearest neighbor: adp: 77
+distanceLSH: 1018
+distanceTrue: 879
+
+Approximate Nearest neighbor: adp: 21
+True Nearest neighbor: adp: 208
+distanceLSH: 1055
+distanceTrue: 936
+
+Approximate Nearest neighbor: adp: 68
+True Nearest neighbor: adp: 298
+distanceLSH: 1077
+distanceTrue: 946
+
+Approximate Nearest neighbor: adp: 262
+True Nearest neighbor: adp: 217
+distanceLSH: 1115
+distanceTrue: 977
+
+tLSH: 82
+tTRUE: 5
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 352
+True Nearest neighbor: a: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 297
+True Nearest neighbor: a: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: a: 267
+True Nearest neighbor: a: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: a: 230
+True Nearest neighbor: a: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: a: 309
+True Nearest neighbor: a: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: a: 173
+True Nearest neighbor: a: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: a: 332
+True Nearest neighbor: a: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: a: 343
+True Nearest neighbor: a: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: a: 338
+True Nearest neighbor: a: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: a: 56
+True Nearest neighbor: a: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 352
+True Nearest neighbor: aa: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 297
+True Nearest neighbor: aa: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: aa: 267
+True Nearest neighbor: aa: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: aa: 230
+True Nearest neighbor: aa: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: aa: 309
+True Nearest neighbor: aa: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: aa: 173
+True Nearest neighbor: aa: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: aa: 332
+True Nearest neighbor: aa: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: aa: 343
+True Nearest neighbor: aa: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: aa: 338
+True Nearest neighbor: aa: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: aa: 56
+True Nearest neighbor: aa: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 352
+True Nearest neighbor: aaba: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 297
+True Nearest neighbor: aaba: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: aaba: 267
+True Nearest neighbor: aaba: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: aaba: 230
+True Nearest neighbor: aaba: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: aaba: 309
+True Nearest neighbor: aaba: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: aaba: 173
+True Nearest neighbor: aaba: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: aaba: 332
+True Nearest neighbor: aaba: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: aaba: 343
+True Nearest neighbor: aaba: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: aaba: 338
+True Nearest neighbor: aaba: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: aaba: 56
+True Nearest neighbor: aaba: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 352
+True Nearest neighbor: aapl: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 297
+True Nearest neighbor: aapl: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: aapl: 267
+True Nearest neighbor: aapl: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: aapl: 230
+True Nearest neighbor: aapl: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: aapl: 309
+True Nearest neighbor: aapl: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: aapl: 173
+True Nearest neighbor: aapl: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: aapl: 332
+True Nearest neighbor: aapl: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: aapl: 343
+True Nearest neighbor: aapl: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: aapl: 338
+True Nearest neighbor: aapl: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: aapl: 56
+True Nearest neighbor: aapl: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 352
+True Nearest neighbor: abc: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 297
+True Nearest neighbor: abc: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: abc: 267
+True Nearest neighbor: abc: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: abc: 230
+True Nearest neighbor: abc: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: abc: 309
+True Nearest neighbor: abc: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: abc: 173
+True Nearest neighbor: abc: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: abc: 332
+True Nearest neighbor: abc: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: abc: 343
+True Nearest neighbor: abc: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: abc: 338
+True Nearest neighbor: abc: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: abc: 56
+True Nearest neighbor: abc: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 352
+True Nearest neighbor: abt: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 297
+True Nearest neighbor: abt: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: abt: 267
+True Nearest neighbor: abt: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: abt: 230
+True Nearest neighbor: abt: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: abt: 309
+True Nearest neighbor: abt: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: abt: 173
+True Nearest neighbor: abt: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: abt: 332
+True Nearest neighbor: abt: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: abt: 343
+True Nearest neighbor: abt: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: abt: 338
+True Nearest neighbor: abt: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: abt: 56
+True Nearest neighbor: abt: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 352
+True Nearest neighbor: abx: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 297
+True Nearest neighbor: abx: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: abx: 267
+True Nearest neighbor: abx: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: abx: 230
+True Nearest neighbor: abx: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: abx: 309
+True Nearest neighbor: abx: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: abx: 173
+True Nearest neighbor: abx: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: abx: 332
+True Nearest neighbor: abx: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: abx: 343
+True Nearest neighbor: abx: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: abx: 338
+True Nearest neighbor: abx: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: abx: 56
+True Nearest neighbor: abx: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 352
+True Nearest neighbor: adbe: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 297
+True Nearest neighbor: adbe: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: adbe: 267
+True Nearest neighbor: adbe: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: adbe: 230
+True Nearest neighbor: adbe: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: adbe: 309
+True Nearest neighbor: adbe: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: adbe: 173
+True Nearest neighbor: adbe: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: adbe: 332
+True Nearest neighbor: adbe: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: adbe: 343
+True Nearest neighbor: adbe: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: adbe: 338
+True Nearest neighbor: adbe: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: adbe: 56
+True Nearest neighbor: adbe: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 352
+True Nearest neighbor: adi: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 297
+True Nearest neighbor: adi: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: adi: 267
+True Nearest neighbor: adi: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: adi: 230
+True Nearest neighbor: adi: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: adi: 309
+True Nearest neighbor: adi: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: adi: 173
+True Nearest neighbor: adi: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: adi: 332
+True Nearest neighbor: adi: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: adi: 343
+True Nearest neighbor: adi: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: adi: 338
+True Nearest neighbor: adi: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: adi: 56
+True Nearest neighbor: adi: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 352
+True Nearest neighbor: adm: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 297
+True Nearest neighbor: adm: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: adm: 267
+True Nearest neighbor: adm: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: adm: 230
+True Nearest neighbor: adm: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: adm: 309
+True Nearest neighbor: adm: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: adm: 173
+True Nearest neighbor: adm: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: adm: 332
+True Nearest neighbor: adm: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: adm: 343
+True Nearest neighbor: adm: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: adm: 338
+True Nearest neighbor: adm: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: adm: 56
+True Nearest neighbor: adm: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 352
+True Nearest neighbor: admp: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 297
+True Nearest neighbor: admp: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: admp: 267
+True Nearest neighbor: admp: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: admp: 230
+True Nearest neighbor: admp: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: admp: 309
+True Nearest neighbor: admp: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: admp: 173
+True Nearest neighbor: admp: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: admp: 332
+True Nearest neighbor: admp: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: admp: 343
+True Nearest neighbor: admp: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: admp: 338
+True Nearest neighbor: admp: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: admp: 56
+True Nearest neighbor: admp: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 352
+True Nearest neighbor: adp: 352
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 297
+True Nearest neighbor: adp: 297
+distanceLSH: 304
+distanceTrue: 304
+
+Approximate Nearest neighbor: adp: 267
+True Nearest neighbor: adp: 0
+distanceLSH: 328
+distanceTrue: 325
+
+Approximate Nearest neighbor: adp: 230
+True Nearest neighbor: adp: 267
+distanceLSH: 332
+distanceTrue: 328
+
+Approximate Nearest neighbor: adp: 309
+True Nearest neighbor: adp: 230
+distanceLSH: 347
+distanceTrue: 332
+
+Approximate Nearest neighbor: adp: 173
+True Nearest neighbor: adp: 309
+distanceLSH: 352
+distanceTrue: 347
+
+Approximate Nearest neighbor: adp: 332
+True Nearest neighbor: adp: 173
+distanceLSH: 357
+distanceTrue: 352
+
+Approximate Nearest neighbor: adp: 343
+True Nearest neighbor: adp: 254
+distanceLSH: 363
+distanceTrue: 354
+
+Approximate Nearest neighbor: adp: 338
+True Nearest neighbor: adp: 332
+distanceLSH: 379
+distanceTrue: 357
+
+Approximate Nearest neighbor: adp: 56
+True Nearest neighbor: adp: 214
+distanceLSH: 382
+distanceTrue: 360
+
+tLSH: 81
+tTRUE: 6
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 353
+True Nearest neighbor: a: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 263
+True Nearest neighbor: a: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: a: 260
+True Nearest neighbor: a: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: a: 65
+True Nearest neighbor: a: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: a: 128
+True Nearest neighbor: a: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: a: 96
+True Nearest neighbor: a: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: a: 83
+True Nearest neighbor: a: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: a: 273
+True Nearest neighbor: a: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: a: 269
+True Nearest neighbor: a: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: a: 243
+True Nearest neighbor: a: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 353
+True Nearest neighbor: aa: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 263
+True Nearest neighbor: aa: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: aa: 260
+True Nearest neighbor: aa: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: aa: 65
+True Nearest neighbor: aa: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: aa: 128
+True Nearest neighbor: aa: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: aa: 96
+True Nearest neighbor: aa: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: aa: 83
+True Nearest neighbor: aa: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: aa: 273
+True Nearest neighbor: aa: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: aa: 269
+True Nearest neighbor: aa: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: aa: 243
+True Nearest neighbor: aa: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 353
+True Nearest neighbor: aaba: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 263
+True Nearest neighbor: aaba: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: aaba: 260
+True Nearest neighbor: aaba: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: aaba: 65
+True Nearest neighbor: aaba: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: aaba: 128
+True Nearest neighbor: aaba: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: aaba: 96
+True Nearest neighbor: aaba: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: aaba: 83
+True Nearest neighbor: aaba: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: aaba: 273
+True Nearest neighbor: aaba: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: aaba: 269
+True Nearest neighbor: aaba: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: aaba: 243
+True Nearest neighbor: aaba: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 353
+True Nearest neighbor: aapl: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 263
+True Nearest neighbor: aapl: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: aapl: 260
+True Nearest neighbor: aapl: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: aapl: 65
+True Nearest neighbor: aapl: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: aapl: 128
+True Nearest neighbor: aapl: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: aapl: 96
+True Nearest neighbor: aapl: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: aapl: 83
+True Nearest neighbor: aapl: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: aapl: 273
+True Nearest neighbor: aapl: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: aapl: 269
+True Nearest neighbor: aapl: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: aapl: 243
+True Nearest neighbor: aapl: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 353
+True Nearest neighbor: abc: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 263
+True Nearest neighbor: abc: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: abc: 260
+True Nearest neighbor: abc: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: abc: 65
+True Nearest neighbor: abc: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: abc: 128
+True Nearest neighbor: abc: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: abc: 96
+True Nearest neighbor: abc: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: abc: 83
+True Nearest neighbor: abc: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: abc: 273
+True Nearest neighbor: abc: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: abc: 269
+True Nearest neighbor: abc: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: abc: 243
+True Nearest neighbor: abc: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 353
+True Nearest neighbor: abt: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 263
+True Nearest neighbor: abt: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: abt: 260
+True Nearest neighbor: abt: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: abt: 65
+True Nearest neighbor: abt: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: abt: 128
+True Nearest neighbor: abt: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: abt: 96
+True Nearest neighbor: abt: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: abt: 83
+True Nearest neighbor: abt: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: abt: 273
+True Nearest neighbor: abt: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: abt: 269
+True Nearest neighbor: abt: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: abt: 243
+True Nearest neighbor: abt: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 353
+True Nearest neighbor: abx: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 263
+True Nearest neighbor: abx: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: abx: 260
+True Nearest neighbor: abx: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: abx: 65
+True Nearest neighbor: abx: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: abx: 128
+True Nearest neighbor: abx: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: abx: 96
+True Nearest neighbor: abx: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: abx: 83
+True Nearest neighbor: abx: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: abx: 273
+True Nearest neighbor: abx: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: abx: 269
+True Nearest neighbor: abx: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: abx: 243
+True Nearest neighbor: abx: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 353
+True Nearest neighbor: adbe: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 263
+True Nearest neighbor: adbe: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: adbe: 260
+True Nearest neighbor: adbe: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: adbe: 65
+True Nearest neighbor: adbe: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: adbe: 128
+True Nearest neighbor: adbe: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: adbe: 96
+True Nearest neighbor: adbe: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: adbe: 83
+True Nearest neighbor: adbe: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: adbe: 273
+True Nearest neighbor: adbe: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: adbe: 269
+True Nearest neighbor: adbe: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: adbe: 243
+True Nearest neighbor: adbe: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 353
+True Nearest neighbor: adi: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 263
+True Nearest neighbor: adi: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: adi: 260
+True Nearest neighbor: adi: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: adi: 65
+True Nearest neighbor: adi: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: adi: 128
+True Nearest neighbor: adi: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: adi: 96
+True Nearest neighbor: adi: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: adi: 83
+True Nearest neighbor: adi: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: adi: 273
+True Nearest neighbor: adi: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: adi: 269
+True Nearest neighbor: adi: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: adi: 243
+True Nearest neighbor: adi: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 353
+True Nearest neighbor: adm: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 263
+True Nearest neighbor: adm: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: adm: 260
+True Nearest neighbor: adm: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: adm: 65
+True Nearest neighbor: adm: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: adm: 128
+True Nearest neighbor: adm: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: adm: 96
+True Nearest neighbor: adm: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: adm: 83
+True Nearest neighbor: adm: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: adm: 273
+True Nearest neighbor: adm: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: adm: 269
+True Nearest neighbor: adm: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: adm: 243
+True Nearest neighbor: adm: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 353
+True Nearest neighbor: admp: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 263
+True Nearest neighbor: admp: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: admp: 260
+True Nearest neighbor: admp: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: admp: 65
+True Nearest neighbor: admp: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: admp: 128
+True Nearest neighbor: admp: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: admp: 96
+True Nearest neighbor: admp: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: admp: 83
+True Nearest neighbor: admp: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: admp: 273
+True Nearest neighbor: admp: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: admp: 269
+True Nearest neighbor: admp: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: admp: 243
+True Nearest neighbor: admp: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 353
+True Nearest neighbor: adp: 353
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 263
+True Nearest neighbor: adp: 294
+distanceLSH: 625
+distanceTrue: 584
+
+Approximate Nearest neighbor: adp: 260
+True Nearest neighbor: adp: 263
+distanceLSH: 791
+distanceTrue: 625
+
+Approximate Nearest neighbor: adp: 65
+True Nearest neighbor: adp: 123
+distanceLSH: 795
+distanceTrue: 745
+
+Approximate Nearest neighbor: adp: 128
+True Nearest neighbor: adp: 260
+distanceLSH: 799
+distanceTrue: 791
+
+Approximate Nearest neighbor: adp: 96
+True Nearest neighbor: adp: 65
+distanceLSH: 826
+distanceTrue: 795
+
+Approximate Nearest neighbor: adp: 83
+True Nearest neighbor: adp: 128
+distanceLSH: 910
+distanceTrue: 799
+
+Approximate Nearest neighbor: adp: 273
+True Nearest neighbor: adp: 253
+distanceLSH: 966
+distanceTrue: 811
+
+Approximate Nearest neighbor: adp: 269
+True Nearest neighbor: adp: 96
+distanceLSH: 1018
+distanceTrue: 826
+
+Approximate Nearest neighbor: adp: 243
+True Nearest neighbor: adp: 30
+distanceLSH: 1042
+distanceTrue: 884
+
+tLSH: 82
+tTRUE: 6
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 354
+True Nearest neighbor: a: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 257
+True Nearest neighbor: a: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: a: 15
+True Nearest neighbor: a: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: a: 256
+True Nearest neighbor: a: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: a: 86
+True Nearest neighbor: a: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: a: 124
+True Nearest neighbor: a: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: a: 147
+True Nearest neighbor: a: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: a: 130
+True Nearest neighbor: a: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: a: 226
+True Nearest neighbor: a: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: a: 254
+True Nearest neighbor: a: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 354
+True Nearest neighbor: aa: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 257
+True Nearest neighbor: aa: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: aa: 15
+True Nearest neighbor: aa: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: aa: 256
+True Nearest neighbor: aa: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: aa: 86
+True Nearest neighbor: aa: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: aa: 124
+True Nearest neighbor: aa: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: aa: 147
+True Nearest neighbor: aa: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: aa: 130
+True Nearest neighbor: aa: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: aa: 226
+True Nearest neighbor: aa: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: aa: 254
+True Nearest neighbor: aa: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 354
+True Nearest neighbor: aaba: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 257
+True Nearest neighbor: aaba: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: aaba: 15
+True Nearest neighbor: aaba: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: aaba: 256
+True Nearest neighbor: aaba: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: aaba: 86
+True Nearest neighbor: aaba: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: aaba: 124
+True Nearest neighbor: aaba: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: aaba: 147
+True Nearest neighbor: aaba: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: aaba: 130
+True Nearest neighbor: aaba: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: aaba: 226
+True Nearest neighbor: aaba: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: aaba: 254
+True Nearest neighbor: aaba: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 354
+True Nearest neighbor: aapl: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 257
+True Nearest neighbor: aapl: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: aapl: 15
+True Nearest neighbor: aapl: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: aapl: 256
+True Nearest neighbor: aapl: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: aapl: 86
+True Nearest neighbor: aapl: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: aapl: 124
+True Nearest neighbor: aapl: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: aapl: 147
+True Nearest neighbor: aapl: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: aapl: 130
+True Nearest neighbor: aapl: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: aapl: 226
+True Nearest neighbor: aapl: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: aapl: 254
+True Nearest neighbor: aapl: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 354
+True Nearest neighbor: abc: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 257
+True Nearest neighbor: abc: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: abc: 15
+True Nearest neighbor: abc: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: abc: 256
+True Nearest neighbor: abc: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: abc: 86
+True Nearest neighbor: abc: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: abc: 124
+True Nearest neighbor: abc: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: abc: 147
+True Nearest neighbor: abc: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: abc: 130
+True Nearest neighbor: abc: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: abc: 226
+True Nearest neighbor: abc: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: abc: 254
+True Nearest neighbor: abc: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 354
+True Nearest neighbor: abt: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 257
+True Nearest neighbor: abt: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: abt: 15
+True Nearest neighbor: abt: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: abt: 256
+True Nearest neighbor: abt: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: abt: 86
+True Nearest neighbor: abt: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: abt: 124
+True Nearest neighbor: abt: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: abt: 147
+True Nearest neighbor: abt: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: abt: 130
+True Nearest neighbor: abt: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: abt: 226
+True Nearest neighbor: abt: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: abt: 254
+True Nearest neighbor: abt: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 354
+True Nearest neighbor: abx: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 257
+True Nearest neighbor: abx: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: abx: 15
+True Nearest neighbor: abx: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: abx: 256
+True Nearest neighbor: abx: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: abx: 86
+True Nearest neighbor: abx: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: abx: 124
+True Nearest neighbor: abx: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: abx: 147
+True Nearest neighbor: abx: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: abx: 130
+True Nearest neighbor: abx: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: abx: 226
+True Nearest neighbor: abx: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: abx: 254
+True Nearest neighbor: abx: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 354
+True Nearest neighbor: adbe: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 257
+True Nearest neighbor: adbe: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: adbe: 15
+True Nearest neighbor: adbe: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: adbe: 256
+True Nearest neighbor: adbe: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: adbe: 86
+True Nearest neighbor: adbe: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: adbe: 124
+True Nearest neighbor: adbe: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: adbe: 147
+True Nearest neighbor: adbe: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: adbe: 130
+True Nearest neighbor: adbe: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: adbe: 226
+True Nearest neighbor: adbe: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: adbe: 254
+True Nearest neighbor: adbe: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 354
+True Nearest neighbor: adi: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 257
+True Nearest neighbor: adi: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: adi: 15
+True Nearest neighbor: adi: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: adi: 256
+True Nearest neighbor: adi: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: adi: 86
+True Nearest neighbor: adi: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: adi: 124
+True Nearest neighbor: adi: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: adi: 147
+True Nearest neighbor: adi: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: adi: 130
+True Nearest neighbor: adi: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: adi: 226
+True Nearest neighbor: adi: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: adi: 254
+True Nearest neighbor: adi: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 354
+True Nearest neighbor: adm: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 257
+True Nearest neighbor: adm: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: adm: 15
+True Nearest neighbor: adm: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: adm: 256
+True Nearest neighbor: adm: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: adm: 86
+True Nearest neighbor: adm: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: adm: 124
+True Nearest neighbor: adm: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: adm: 147
+True Nearest neighbor: adm: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: adm: 130
+True Nearest neighbor: adm: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: adm: 226
+True Nearest neighbor: adm: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: adm: 254
+True Nearest neighbor: adm: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 354
+True Nearest neighbor: admp: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 257
+True Nearest neighbor: admp: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: admp: 15
+True Nearest neighbor: admp: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: admp: 256
+True Nearest neighbor: admp: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: admp: 86
+True Nearest neighbor: admp: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: admp: 124
+True Nearest neighbor: admp: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: admp: 147
+True Nearest neighbor: admp: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: admp: 130
+True Nearest neighbor: admp: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: admp: 226
+True Nearest neighbor: admp: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: admp: 254
+True Nearest neighbor: admp: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 354
+True Nearest neighbor: adp: 354
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 257
+True Nearest neighbor: adp: 257
+distanceLSH: 271
+distanceTrue: 271
+
+Approximate Nearest neighbor: adp: 15
+True Nearest neighbor: adp: 15
+distanceLSH: 285
+distanceTrue: 285
+
+Approximate Nearest neighbor: adp: 256
+True Nearest neighbor: adp: 256
+distanceLSH: 358
+distanceTrue: 358
+
+Approximate Nearest neighbor: adp: 86
+True Nearest neighbor: adp: 86
+distanceLSH: 361
+distanceTrue: 361
+
+Approximate Nearest neighbor: adp: 124
+True Nearest neighbor: adp: 124
+distanceLSH: 375
+distanceTrue: 375
+
+Approximate Nearest neighbor: adp: 147
+True Nearest neighbor: adp: 147
+distanceLSH: 391
+distanceTrue: 391
+
+Approximate Nearest neighbor: adp: 130
+True Nearest neighbor: adp: 118
+distanceLSH: 425
+distanceTrue: 414
+
+Approximate Nearest neighbor: adp: 226
+True Nearest neighbor: adp: 130
+distanceLSH: 435
+distanceTrue: 425
+
+Approximate Nearest neighbor: adp: 254
+True Nearest neighbor: adp: 120
+distanceLSH: 465
+distanceTrue: 429
+
+tLSH: 83
+tTRUE: 6
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 355
+True Nearest neighbor: a: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 196
+True Nearest neighbor: a: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: a: 219
+True Nearest neighbor: a: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: a: 326
+True Nearest neighbor: a: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: a: 135
+True Nearest neighbor: a: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: a: 129
+True Nearest neighbor: a: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: a: 203
+True Nearest neighbor: a: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: a: 77
+True Nearest neighbor: a: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: a: 262
+True Nearest neighbor: a: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: a: 13
+True Nearest neighbor: a: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 355
+True Nearest neighbor: aa: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 196
+True Nearest neighbor: aa: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: aa: 219
+True Nearest neighbor: aa: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: aa: 326
+True Nearest neighbor: aa: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: aa: 135
+True Nearest neighbor: aa: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: aa: 129
+True Nearest neighbor: aa: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: aa: 203
+True Nearest neighbor: aa: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: aa: 77
+True Nearest neighbor: aa: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: aa: 262
+True Nearest neighbor: aa: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: aa: 13
+True Nearest neighbor: aa: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 355
+True Nearest neighbor: aaba: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 196
+True Nearest neighbor: aaba: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: aaba: 219
+True Nearest neighbor: aaba: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: aaba: 326
+True Nearest neighbor: aaba: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: aaba: 135
+True Nearest neighbor: aaba: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: aaba: 129
+True Nearest neighbor: aaba: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: aaba: 203
+True Nearest neighbor: aaba: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: aaba: 77
+True Nearest neighbor: aaba: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: aaba: 262
+True Nearest neighbor: aaba: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: aaba: 13
+True Nearest neighbor: aaba: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 355
+True Nearest neighbor: aapl: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 196
+True Nearest neighbor: aapl: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: aapl: 219
+True Nearest neighbor: aapl: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: aapl: 326
+True Nearest neighbor: aapl: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: aapl: 135
+True Nearest neighbor: aapl: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: aapl: 129
+True Nearest neighbor: aapl: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: aapl: 203
+True Nearest neighbor: aapl: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: aapl: 77
+True Nearest neighbor: aapl: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: aapl: 262
+True Nearest neighbor: aapl: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: aapl: 13
+True Nearest neighbor: aapl: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 355
+True Nearest neighbor: abc: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 196
+True Nearest neighbor: abc: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: abc: 219
+True Nearest neighbor: abc: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: abc: 326
+True Nearest neighbor: abc: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: abc: 135
+True Nearest neighbor: abc: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: abc: 129
+True Nearest neighbor: abc: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: abc: 203
+True Nearest neighbor: abc: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: abc: 77
+True Nearest neighbor: abc: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: abc: 262
+True Nearest neighbor: abc: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: abc: 13
+True Nearest neighbor: abc: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 355
+True Nearest neighbor: abt: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 196
+True Nearest neighbor: abt: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: abt: 219
+True Nearest neighbor: abt: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: abt: 326
+True Nearest neighbor: abt: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: abt: 135
+True Nearest neighbor: abt: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: abt: 129
+True Nearest neighbor: abt: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: abt: 203
+True Nearest neighbor: abt: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: abt: 77
+True Nearest neighbor: abt: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: abt: 262
+True Nearest neighbor: abt: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: abt: 13
+True Nearest neighbor: abt: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 355
+True Nearest neighbor: abx: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 196
+True Nearest neighbor: abx: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: abx: 219
+True Nearest neighbor: abx: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: abx: 326
+True Nearest neighbor: abx: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: abx: 135
+True Nearest neighbor: abx: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: abx: 129
+True Nearest neighbor: abx: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: abx: 203
+True Nearest neighbor: abx: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: abx: 77
+True Nearest neighbor: abx: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: abx: 262
+True Nearest neighbor: abx: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: abx: 13
+True Nearest neighbor: abx: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 355
+True Nearest neighbor: adbe: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 196
+True Nearest neighbor: adbe: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: adbe: 219
+True Nearest neighbor: adbe: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: adbe: 326
+True Nearest neighbor: adbe: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: adbe: 135
+True Nearest neighbor: adbe: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: adbe: 129
+True Nearest neighbor: adbe: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: adbe: 203
+True Nearest neighbor: adbe: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: adbe: 77
+True Nearest neighbor: adbe: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: adbe: 262
+True Nearest neighbor: adbe: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: adbe: 13
+True Nearest neighbor: adbe: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 355
+True Nearest neighbor: adi: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 196
+True Nearest neighbor: adi: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: adi: 219
+True Nearest neighbor: adi: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: adi: 326
+True Nearest neighbor: adi: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: adi: 135
+True Nearest neighbor: adi: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: adi: 129
+True Nearest neighbor: adi: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: adi: 203
+True Nearest neighbor: adi: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: adi: 77
+True Nearest neighbor: adi: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: adi: 262
+True Nearest neighbor: adi: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: adi: 13
+True Nearest neighbor: adi: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 355
+True Nearest neighbor: adm: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 196
+True Nearest neighbor: adm: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: adm: 219
+True Nearest neighbor: adm: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: adm: 326
+True Nearest neighbor: adm: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: adm: 135
+True Nearest neighbor: adm: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: adm: 129
+True Nearest neighbor: adm: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: adm: 203
+True Nearest neighbor: adm: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: adm: 77
+True Nearest neighbor: adm: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: adm: 262
+True Nearest neighbor: adm: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: adm: 13
+True Nearest neighbor: adm: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 355
+True Nearest neighbor: admp: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 196
+True Nearest neighbor: admp: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: admp: 219
+True Nearest neighbor: admp: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: admp: 326
+True Nearest neighbor: admp: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: admp: 135
+True Nearest neighbor: admp: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: admp: 129
+True Nearest neighbor: admp: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: admp: 203
+True Nearest neighbor: admp: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: admp: 77
+True Nearest neighbor: admp: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: admp: 262
+True Nearest neighbor: admp: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: admp: 13
+True Nearest neighbor: admp: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 355
+True Nearest neighbor: adp: 355
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 196
+True Nearest neighbor: adp: 196
+distanceLSH: 626
+distanceTrue: 626
+
+Approximate Nearest neighbor: adp: 219
+True Nearest neighbor: adp: 219
+distanceLSH: 630
+distanceTrue: 630
+
+Approximate Nearest neighbor: adp: 326
+True Nearest neighbor: adp: 326
+distanceLSH: 673
+distanceTrue: 673
+
+Approximate Nearest neighbor: adp: 135
+True Nearest neighbor: adp: 135
+distanceLSH: 690
+distanceTrue: 690
+
+Approximate Nearest neighbor: adp: 129
+True Nearest neighbor: adp: 129
+distanceLSH: 692
+distanceTrue: 692
+
+Approximate Nearest neighbor: adp: 203
+True Nearest neighbor: adp: 217
+distanceLSH: 727
+distanceTrue: 715
+
+Approximate Nearest neighbor: adp: 77
+True Nearest neighbor: adp: 203
+distanceLSH: 742
+distanceTrue: 727
+
+Approximate Nearest neighbor: adp: 262
+True Nearest neighbor: adp: 77
+distanceLSH: 756
+distanceTrue: 742
+
+Approximate Nearest neighbor: adp: 13
+True Nearest neighbor: adp: 68
+distanceLSH: 762
+distanceTrue: 747
+
+tLSH: 82
+tTRUE: 6
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 356
+True Nearest neighbor: a: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 147
+True Nearest neighbor: a: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: a: 319
+True Nearest neighbor: a: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: a: 108
+True Nearest neighbor: a: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: a: 33
+True Nearest neighbor: a: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: a: 124
+True Nearest neighbor: a: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: a: 317
+True Nearest neighbor: a: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: a: 57
+True Nearest neighbor: a: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: a: 297
+True Nearest neighbor: a: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: a: 27
+True Nearest neighbor: a: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 356
+True Nearest neighbor: aa: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 147
+True Nearest neighbor: aa: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: aa: 319
+True Nearest neighbor: aa: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: aa: 108
+True Nearest neighbor: aa: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: aa: 33
+True Nearest neighbor: aa: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: aa: 124
+True Nearest neighbor: aa: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: aa: 317
+True Nearest neighbor: aa: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: aa: 57
+True Nearest neighbor: aa: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: aa: 297
+True Nearest neighbor: aa: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: aa: 27
+True Nearest neighbor: aa: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 356
+True Nearest neighbor: aaba: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 147
+True Nearest neighbor: aaba: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: aaba: 319
+True Nearest neighbor: aaba: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: aaba: 108
+True Nearest neighbor: aaba: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: aaba: 33
+True Nearest neighbor: aaba: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: aaba: 124
+True Nearest neighbor: aaba: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: aaba: 317
+True Nearest neighbor: aaba: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: aaba: 57
+True Nearest neighbor: aaba: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: aaba: 297
+True Nearest neighbor: aaba: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: aaba: 27
+True Nearest neighbor: aaba: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 356
+True Nearest neighbor: aapl: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 147
+True Nearest neighbor: aapl: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: aapl: 319
+True Nearest neighbor: aapl: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: aapl: 108
+True Nearest neighbor: aapl: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: aapl: 33
+True Nearest neighbor: aapl: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: aapl: 124
+True Nearest neighbor: aapl: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: aapl: 317
+True Nearest neighbor: aapl: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: aapl: 57
+True Nearest neighbor: aapl: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: aapl: 297
+True Nearest neighbor: aapl: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: aapl: 27
+True Nearest neighbor: aapl: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 356
+True Nearest neighbor: abc: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 147
+True Nearest neighbor: abc: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: abc: 319
+True Nearest neighbor: abc: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: abc: 108
+True Nearest neighbor: abc: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: abc: 33
+True Nearest neighbor: abc: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: abc: 124
+True Nearest neighbor: abc: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: abc: 317
+True Nearest neighbor: abc: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: abc: 57
+True Nearest neighbor: abc: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: abc: 297
+True Nearest neighbor: abc: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: abc: 27
+True Nearest neighbor: abc: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 356
+True Nearest neighbor: abt: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 147
+True Nearest neighbor: abt: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: abt: 319
+True Nearest neighbor: abt: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: abt: 108
+True Nearest neighbor: abt: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: abt: 33
+True Nearest neighbor: abt: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: abt: 124
+True Nearest neighbor: abt: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: abt: 317
+True Nearest neighbor: abt: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: abt: 57
+True Nearest neighbor: abt: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: abt: 297
+True Nearest neighbor: abt: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: abt: 27
+True Nearest neighbor: abt: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 356
+True Nearest neighbor: abx: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 147
+True Nearest neighbor: abx: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: abx: 319
+True Nearest neighbor: abx: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: abx: 108
+True Nearest neighbor: abx: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: abx: 33
+True Nearest neighbor: abx: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: abx: 124
+True Nearest neighbor: abx: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: abx: 317
+True Nearest neighbor: abx: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: abx: 57
+True Nearest neighbor: abx: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: abx: 297
+True Nearest neighbor: abx: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: abx: 27
+True Nearest neighbor: abx: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 356
+True Nearest neighbor: adbe: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 147
+True Nearest neighbor: adbe: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: adbe: 319
+True Nearest neighbor: adbe: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: adbe: 108
+True Nearest neighbor: adbe: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: adbe: 33
+True Nearest neighbor: adbe: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: adbe: 124
+True Nearest neighbor: adbe: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: adbe: 317
+True Nearest neighbor: adbe: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: adbe: 57
+True Nearest neighbor: adbe: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: adbe: 297
+True Nearest neighbor: adbe: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: adbe: 27
+True Nearest neighbor: adbe: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 356
+True Nearest neighbor: adi: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 147
+True Nearest neighbor: adi: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: adi: 319
+True Nearest neighbor: adi: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: adi: 108
+True Nearest neighbor: adi: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: adi: 33
+True Nearest neighbor: adi: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: adi: 124
+True Nearest neighbor: adi: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: adi: 317
+True Nearest neighbor: adi: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: adi: 57
+True Nearest neighbor: adi: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: adi: 297
+True Nearest neighbor: adi: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: adi: 27
+True Nearest neighbor: adi: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 356
+True Nearest neighbor: adm: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 147
+True Nearest neighbor: adm: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: adm: 319
+True Nearest neighbor: adm: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: adm: 108
+True Nearest neighbor: adm: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: adm: 33
+True Nearest neighbor: adm: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: adm: 124
+True Nearest neighbor: adm: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: adm: 317
+True Nearest neighbor: adm: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: adm: 57
+True Nearest neighbor: adm: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: adm: 297
+True Nearest neighbor: adm: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: adm: 27
+True Nearest neighbor: adm: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 356
+True Nearest neighbor: admp: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 147
+True Nearest neighbor: admp: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: admp: 319
+True Nearest neighbor: admp: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: admp: 108
+True Nearest neighbor: admp: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: admp: 33
+True Nearest neighbor: admp: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: admp: 124
+True Nearest neighbor: admp: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: admp: 317
+True Nearest neighbor: admp: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: admp: 57
+True Nearest neighbor: admp: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: admp: 297
+True Nearest neighbor: admp: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: admp: 27
+True Nearest neighbor: admp: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 356
+True Nearest neighbor: adp: 356
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 147
+True Nearest neighbor: adp: 147
+distanceLSH: 401
+distanceTrue: 401
+
+Approximate Nearest neighbor: adp: 319
+True Nearest neighbor: adp: 319
+distanceLSH: 413
+distanceTrue: 413
+
+Approximate Nearest neighbor: adp: 108
+True Nearest neighbor: adp: 108
+distanceLSH: 423
+distanceTrue: 423
+
+Approximate Nearest neighbor: adp: 33
+True Nearest neighbor: adp: 341
+distanceLSH: 463
+distanceTrue: 452
+
+Approximate Nearest neighbor: adp: 124
+True Nearest neighbor: adp: 33
+distanceLSH: 494
+distanceTrue: 463
+
+Approximate Nearest neighbor: adp: 317
+True Nearest neighbor: adp: 267
+distanceLSH: 497
+distanceTrue: 491
+
+Approximate Nearest neighbor: adp: 57
+True Nearest neighbor: adp: 124
+distanceLSH: 506
+distanceTrue: 494
+
+Approximate Nearest neighbor: adp: 297
+True Nearest neighbor: adp: 317
+distanceLSH: 542
+distanceTrue: 497
+
+Approximate Nearest neighbor: adp: 27
+True Nearest neighbor: adp: 334
+distanceLSH: 547
+distanceTrue: 499
+
+tLSH: 81
+tTRUE: 5
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 357
+True Nearest neighbor: a: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 193
+True Nearest neighbor: a: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: a: 183
+True Nearest neighbor: a: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: a: 333
+True Nearest neighbor: a: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: a: 76
+True Nearest neighbor: a: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: a: 66
+True Nearest neighbor: a: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: a: 31
+True Nearest neighbor: a: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: a: 336
+True Nearest neighbor: a: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: a: 283
+True Nearest neighbor: a: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: a: 275
+True Nearest neighbor: a: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 357
+True Nearest neighbor: aa: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 193
+True Nearest neighbor: aa: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: aa: 183
+True Nearest neighbor: aa: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: aa: 333
+True Nearest neighbor: aa: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: aa: 76
+True Nearest neighbor: aa: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: aa: 66
+True Nearest neighbor: aa: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: aa: 31
+True Nearest neighbor: aa: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: aa: 336
+True Nearest neighbor: aa: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: aa: 283
+True Nearest neighbor: aa: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: aa: 275
+True Nearest neighbor: aa: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 357
+True Nearest neighbor: aaba: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 193
+True Nearest neighbor: aaba: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: aaba: 183
+True Nearest neighbor: aaba: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: aaba: 333
+True Nearest neighbor: aaba: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: aaba: 76
+True Nearest neighbor: aaba: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: aaba: 66
+True Nearest neighbor: aaba: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: aaba: 31
+True Nearest neighbor: aaba: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: aaba: 336
+True Nearest neighbor: aaba: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: aaba: 283
+True Nearest neighbor: aaba: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: aaba: 275
+True Nearest neighbor: aaba: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 357
+True Nearest neighbor: aapl: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 193
+True Nearest neighbor: aapl: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: aapl: 183
+True Nearest neighbor: aapl: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: aapl: 333
+True Nearest neighbor: aapl: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: aapl: 76
+True Nearest neighbor: aapl: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: aapl: 66
+True Nearest neighbor: aapl: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: aapl: 31
+True Nearest neighbor: aapl: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: aapl: 336
+True Nearest neighbor: aapl: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: aapl: 283
+True Nearest neighbor: aapl: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: aapl: 275
+True Nearest neighbor: aapl: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 357
+True Nearest neighbor: abc: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 193
+True Nearest neighbor: abc: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: abc: 183
+True Nearest neighbor: abc: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: abc: 333
+True Nearest neighbor: abc: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: abc: 76
+True Nearest neighbor: abc: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: abc: 66
+True Nearest neighbor: abc: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: abc: 31
+True Nearest neighbor: abc: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: abc: 336
+True Nearest neighbor: abc: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: abc: 283
+True Nearest neighbor: abc: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: abc: 275
+True Nearest neighbor: abc: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 357
+True Nearest neighbor: abt: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 193
+True Nearest neighbor: abt: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: abt: 183
+True Nearest neighbor: abt: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: abt: 333
+True Nearest neighbor: abt: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: abt: 76
+True Nearest neighbor: abt: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: abt: 66
+True Nearest neighbor: abt: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: abt: 31
+True Nearest neighbor: abt: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: abt: 336
+True Nearest neighbor: abt: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: abt: 283
+True Nearest neighbor: abt: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: abt: 275
+True Nearest neighbor: abt: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 357
+True Nearest neighbor: abx: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 193
+True Nearest neighbor: abx: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: abx: 183
+True Nearest neighbor: abx: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: abx: 333
+True Nearest neighbor: abx: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: abx: 76
+True Nearest neighbor: abx: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: abx: 66
+True Nearest neighbor: abx: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: abx: 31
+True Nearest neighbor: abx: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: abx: 336
+True Nearest neighbor: abx: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: abx: 283
+True Nearest neighbor: abx: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: abx: 275
+True Nearest neighbor: abx: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 357
+True Nearest neighbor: adbe: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 193
+True Nearest neighbor: adbe: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: adbe: 183
+True Nearest neighbor: adbe: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: adbe: 333
+True Nearest neighbor: adbe: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: adbe: 76
+True Nearest neighbor: adbe: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: adbe: 66
+True Nearest neighbor: adbe: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: adbe: 31
+True Nearest neighbor: adbe: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: adbe: 336
+True Nearest neighbor: adbe: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: adbe: 283
+True Nearest neighbor: adbe: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: adbe: 275
+True Nearest neighbor: adbe: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 357
+True Nearest neighbor: adi: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 193
+True Nearest neighbor: adi: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: adi: 183
+True Nearest neighbor: adi: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: adi: 333
+True Nearest neighbor: adi: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: adi: 76
+True Nearest neighbor: adi: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: adi: 66
+True Nearest neighbor: adi: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: adi: 31
+True Nearest neighbor: adi: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: adi: 336
+True Nearest neighbor: adi: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: adi: 283
+True Nearest neighbor: adi: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: adi: 275
+True Nearest neighbor: adi: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 357
+True Nearest neighbor: adm: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 193
+True Nearest neighbor: adm: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: adm: 183
+True Nearest neighbor: adm: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: adm: 333
+True Nearest neighbor: adm: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: adm: 76
+True Nearest neighbor: adm: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: adm: 66
+True Nearest neighbor: adm: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: adm: 31
+True Nearest neighbor: adm: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: adm: 336
+True Nearest neighbor: adm: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: adm: 283
+True Nearest neighbor: adm: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: adm: 275
+True Nearest neighbor: adm: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 357
+True Nearest neighbor: admp: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 193
+True Nearest neighbor: admp: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: admp: 183
+True Nearest neighbor: admp: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: admp: 333
+True Nearest neighbor: admp: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: admp: 76
+True Nearest neighbor: admp: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: admp: 66
+True Nearest neighbor: admp: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: admp: 31
+True Nearest neighbor: admp: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: admp: 336
+True Nearest neighbor: admp: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: admp: 283
+True Nearest neighbor: admp: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: admp: 275
+True Nearest neighbor: admp: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 357
+True Nearest neighbor: adp: 357
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 193
+True Nearest neighbor: adp: 331
+distanceLSH: 854
+distanceTrue: 668
+
+Approximate Nearest neighbor: adp: 183
+True Nearest neighbor: adp: 193
+distanceLSH: 871
+distanceTrue: 854
+
+Approximate Nearest neighbor: adp: 333
+True Nearest neighbor: adp: 183
+distanceLSH: 994
+distanceTrue: 871
+
+Approximate Nearest neighbor: adp: 76
+True Nearest neighbor: adp: 260
+distanceLSH: 995
+distanceTrue: 994
+
+Approximate Nearest neighbor: adp: 66
+True Nearest neighbor: adp: 333
+distanceLSH: 1168
+distanceTrue: 994
+
+Approximate Nearest neighbor: adp: 31
+True Nearest neighbor: adp: 76
+distanceLSH: 1175
+distanceTrue: 995
+
+Approximate Nearest neighbor: adp: 336
+True Nearest neighbor: adp: 269
+distanceLSH: 1202
+distanceTrue: 1043
+
+Approximate Nearest neighbor: adp: 283
+True Nearest neighbor: adp: 307
+distanceLSH: 1322
+distanceTrue: 1062
+
+Approximate Nearest neighbor: adp: 275
+True Nearest neighbor: adp: 66
+distanceLSH: 1474
+distanceTrue: 1168
+
+tLSH: 82
+tTRUE: 5
+
+Query: wor
+Algorithm: lsh
+Approximate Nearest neighbor: a: 358
+True Nearest neighbor: a: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: a: 351
+True Nearest neighbor: a: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: a: 160
+True Nearest neighbor: a: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: a: 298
+True Nearest neighbor: a: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: a: 1
+True Nearest neighbor: a: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: a: 355
+True Nearest neighbor: a: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: a: 77
+True Nearest neighbor: a: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: a: 203
+True Nearest neighbor: a: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: a: 208
+True Nearest neighbor: a: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: a: 196
+True Nearest neighbor: a: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: wy
+Algorithm: lsh
+Approximate Nearest neighbor: aa: 358
+True Nearest neighbor: aa: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aa: 351
+True Nearest neighbor: aa: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: aa: 160
+True Nearest neighbor: aa: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: aa: 298
+True Nearest neighbor: aa: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: aa: 1
+True Nearest neighbor: aa: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: aa: 355
+True Nearest neighbor: aa: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: aa: 77
+True Nearest neighbor: aa: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: aa: 203
+True Nearest neighbor: aa: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: aa: 208
+True Nearest neighbor: aa: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: aa: 196
+True Nearest neighbor: aa: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: x
+Algorithm: lsh
+Approximate Nearest neighbor: aaba: 358
+True Nearest neighbor: aaba: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aaba: 351
+True Nearest neighbor: aaba: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: aaba: 160
+True Nearest neighbor: aaba: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: aaba: 298
+True Nearest neighbor: aaba: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: aaba: 1
+True Nearest neighbor: aaba: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: aaba: 355
+True Nearest neighbor: aaba: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: aaba: 77
+True Nearest neighbor: aaba: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: aaba: 203
+True Nearest neighbor: aaba: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: aaba: 208
+True Nearest neighbor: aaba: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: aaba: 196
+True Nearest neighbor: aaba: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: xel
+Algorithm: lsh
+Approximate Nearest neighbor: aapl: 358
+True Nearest neighbor: aapl: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: aapl: 351
+True Nearest neighbor: aapl: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: aapl: 160
+True Nearest neighbor: aapl: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: aapl: 298
+True Nearest neighbor: aapl: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: aapl: 1
+True Nearest neighbor: aapl: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: aapl: 355
+True Nearest neighbor: aapl: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: aapl: 77
+True Nearest neighbor: aapl: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: aapl: 203
+True Nearest neighbor: aapl: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: aapl: 208
+True Nearest neighbor: aapl: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: aapl: 196
+True Nearest neighbor: aapl: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: xl
+Algorithm: lsh
+Approximate Nearest neighbor: abc: 358
+True Nearest neighbor: abc: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abc: 351
+True Nearest neighbor: abc: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: abc: 160
+True Nearest neighbor: abc: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: abc: 298
+True Nearest neighbor: abc: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: abc: 1
+True Nearest neighbor: abc: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: abc: 355
+True Nearest neighbor: abc: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: abc: 77
+True Nearest neighbor: abc: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: abc: 203
+True Nearest neighbor: abc: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: abc: 208
+True Nearest neighbor: abc: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: abc: 196
+True Nearest neighbor: abc: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: xlnx
+Algorithm: lsh
+Approximate Nearest neighbor: abt: 358
+True Nearest neighbor: abt: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abt: 351
+True Nearest neighbor: abt: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: abt: 160
+True Nearest neighbor: abt: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: abt: 298
+True Nearest neighbor: abt: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: abt: 1
+True Nearest neighbor: abt: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: abt: 355
+True Nearest neighbor: abt: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: abt: 77
+True Nearest neighbor: abt: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: abt: 203
+True Nearest neighbor: abt: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: abt: 208
+True Nearest neighbor: abt: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: abt: 196
+True Nearest neighbor: abt: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: xom
+Algorithm: lsh
+Approximate Nearest neighbor: abx: 358
+True Nearest neighbor: abx: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: abx: 351
+True Nearest neighbor: abx: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: abx: 160
+True Nearest neighbor: abx: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: abx: 298
+True Nearest neighbor: abx: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: abx: 1
+True Nearest neighbor: abx: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: abx: 355
+True Nearest neighbor: abx: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: abx: 77
+True Nearest neighbor: abx: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: abx: 203
+True Nearest neighbor: abx: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: abx: 208
+True Nearest neighbor: abx: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: abx: 196
+True Nearest neighbor: abx: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: xray
+Algorithm: lsh
+Approximate Nearest neighbor: adbe: 358
+True Nearest neighbor: adbe: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adbe: 351
+True Nearest neighbor: adbe: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: adbe: 160
+True Nearest neighbor: adbe: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: adbe: 298
+True Nearest neighbor: adbe: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: adbe: 1
+True Nearest neighbor: adbe: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: adbe: 355
+True Nearest neighbor: adbe: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: adbe: 77
+True Nearest neighbor: adbe: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: adbe: 203
+True Nearest neighbor: adbe: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: adbe: 208
+True Nearest neighbor: adbe: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: adbe: 196
+True Nearest neighbor: adbe: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: xrx
+Algorithm: lsh
+Approximate Nearest neighbor: adi: 358
+True Nearest neighbor: adi: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adi: 351
+True Nearest neighbor: adi: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: adi: 160
+True Nearest neighbor: adi: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: adi: 298
+True Nearest neighbor: adi: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: adi: 1
+True Nearest neighbor: adi: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: adi: 355
+True Nearest neighbor: adi: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: adi: 77
+True Nearest neighbor: adi: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: adi: 203
+True Nearest neighbor: adi: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: adi: 208
+True Nearest neighbor: adi: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: adi: 196
+True Nearest neighbor: adi: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: yum
+Algorithm: lsh
+Approximate Nearest neighbor: adm: 358
+True Nearest neighbor: adm: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adm: 351
+True Nearest neighbor: adm: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: adm: 160
+True Nearest neighbor: adm: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: adm: 298
+True Nearest neighbor: adm: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: adm: 1
+True Nearest neighbor: adm: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: adm: 355
+True Nearest neighbor: adm: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: adm: 77
+True Nearest neighbor: adm: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: adm: 203
+True Nearest neighbor: adm: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: adm: 208
+True Nearest neighbor: adm: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: adm: 196
+True Nearest neighbor: adm: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: zbh
+Algorithm: lsh
+Approximate Nearest neighbor: admp: 358
+True Nearest neighbor: admp: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: admp: 351
+True Nearest neighbor: admp: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: admp: 160
+True Nearest neighbor: admp: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: admp: 298
+True Nearest neighbor: admp: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: admp: 1
+True Nearest neighbor: admp: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: admp: 355
+True Nearest neighbor: admp: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: admp: 77
+True Nearest neighbor: admp: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: admp: 203
+True Nearest neighbor: admp: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: admp: 208
+True Nearest neighbor: admp: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: admp: 196
+True Nearest neighbor: admp: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
+Query: zion
+Algorithm: lsh
+Approximate Nearest neighbor: adp: 358
+True Nearest neighbor: adp: 358
+distanceLSH: 0
+distanceTrue: 0
+
+Approximate Nearest neighbor: adp: 351
+True Nearest neighbor: adp: 303
+distanceLSH: 570
+distanceTrue: 443
+
+Approximate Nearest neighbor: adp: 160
+True Nearest neighbor: adp: 351
+distanceLSH: 591
+distanceTrue: 570
+
+Approximate Nearest neighbor: adp: 298
+True Nearest neighbor: adp: 160
+distanceLSH: 632
+distanceTrue: 591
+
+Approximate Nearest neighbor: adp: 1
+True Nearest neighbor: adp: 298
+distanceLSH: 743
+distanceTrue: 632
+
+Approximate Nearest neighbor: adp: 355
+True Nearest neighbor: adp: 1
+distanceLSH: 903
+distanceTrue: 743
+
+Approximate Nearest neighbor: adp: 77
+True Nearest neighbor: adp: 355
+distanceLSH: 965
+distanceTrue: 903
+
+Approximate Nearest neighbor: adp: 203
+True Nearest neighbor: adp: 77
+distanceLSH: 1035
+distanceTrue: 965
+
+Approximate Nearest neighbor: adp: 208
+True Nearest neighbor: adp: 212
+distanceLSH: 1041
+distanceTrue: 1029
+
+Approximate Nearest neighbor: adp: 196
+True Nearest neighbor: adp: 43
+distanceLSH: 1282
+distanceTrue: 1033
+
+tLSH: 81
+tTRUE: 5
+
