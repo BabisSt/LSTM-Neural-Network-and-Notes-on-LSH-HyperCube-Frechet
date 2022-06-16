@@ -1,4 +1,12 @@
-# 3 Project for Software Development for Algorithmic Problems
+# Multi-layered LSTM neural network and LSTM with Autoencoder and Notes
+
+Data Clustering Third Project For Software Development for Algorithmic Problems
+
+Experimented with epochs batches and loss functions.
+Trained and tested the network changing the layers each time.
+Implemented an autoencoder for another LSTM network.
+Used the networks for previous implemented algorithms such as LSH,HyperCube,Discrete and Continuous Frechet and took notes for their validity.
+Not fully functional
 
 3η Εργασία Ανάπτυξη Λογισμικού για Αλγοριθμικά Προβλήματα 
 
