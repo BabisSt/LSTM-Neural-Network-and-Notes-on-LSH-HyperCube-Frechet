@@ -1,12 +1,12 @@
 # Multi-layered LSTM neural network and LSTM with Autoencoder and Notes
 
-Data Clustering Third Project For Software Development for Algorithmic Problems
+Data Clustering Third Project For Software Development for Algorithmic Problems<br /><br />
 
-Experimented with epochs batches and loss functions.
-Trained and tested the network changing the layers each time.
-Implemented an autoencoder for another LSTM network.
-Used the networks for previous implemented algorithms such as LSH,HyperCube,Discrete and Continuous Frechet and took notes for their validity.
-Not fully functional
+Experimented with epochs batches and loss functions.<br />
+Trained and tested the network changing the layers each time.<br />
+Implemented an autoencoder for another LSTM network.<br />
+Used the networks for previous implemented algorithms such as LSH,HyperCube,Discrete and Continuous Frechet and took notes for their validity.<br />
+Not fully functional<br /><br />
 
 
 
